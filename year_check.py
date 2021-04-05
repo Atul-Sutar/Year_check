@@ -64,4 +64,4 @@ try:
     """creatd by Atul"""
     """run from cmd for colors"""
 except:
- print("you may have entered wron input try again")
+ print("you may have entered wrong input try again")
