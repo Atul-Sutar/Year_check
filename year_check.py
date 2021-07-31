@@ -2,7 +2,8 @@ from colorama import init, deinit, Fore, Back, Style
 init(autoreset=True)
 """ for colored output run from command prompt from output"""
 
-banner = """╦ ╦┌─┐┌─┐┬─┐  ┌─┐┬ ┬┌─┐┌─┐┬┌─
+banner = """
+╦ ╦┌─┐┌─┐┬─┐  ┌─┐┬ ┬┌─┐┌─┐┬┌─
 ╚╦╝├┤ ├─┤├┬┘  │  ├─┤├┤ │  ├┴┐
  ╩ └─┘┴ ┴┴└─  └─┘┴ ┴└─┘└─┘┴ ┴"""
             
